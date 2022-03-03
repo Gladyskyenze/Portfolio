@@ -1,0 +1,20 @@
+.topNav{
+    background-color: brown;
+    overflow: hidden;
+}
+.topNav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 16px 17px;
+    font-size: 17px;
+}
+.topNav a:hover{
+    background-color: blanchedalmond;
+    color: 0000;
+}
+.topNav a.requ {
+    background-color: blanchedalmond;
+    color: 0000;
+}
+
