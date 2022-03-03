@@ -1,0 +1,12 @@
+
+ body {
+    background-color: palevioletred;
+    font-size: large;
+}
+
+.pictures {
+    display: flex;
+    flex-direction: column;
+    content: '\f106';
+
+}
