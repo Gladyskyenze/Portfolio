@@ -11,19 +11,22 @@
 + [Authors Info](#Author)
 ## Overall Project Description
 
-- In this project I will be working on my Portfolio. This is a website that generally explains about my career journey likes and interests
+- In this project I will be working on my Portfolio. This is a website that generally explains about my career journey likes and interests. It also shows my skills on what i do best.
 
 ## User Stories:
 -In this site you will learn more about me and see my pictures.
 
 ## project setup instructions
  - run the site from github and get it to load.
+ - There is both the live site or the repositories link to view the project.
+ 
 ## Languages and Frameworks
 
 - Html5
 - Css 
 
-
+## Live site 
+-
 
 HTTPS: `https://github.com/Gladyskyenze/Portfolio.git`
 
