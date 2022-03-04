@@ -26,7 +26,7 @@
 - Css 
 
 ## Live site 
--https://gladyskyenze.github.io/portfolio/
+Live : 'https://gladyskyenze.github.io/portfolio/'
 
 HTTPS: `https://github.com/Gladyskyenze/Portfolio.git`
 
